@@ -1,0 +1,9 @@
+obj\Debug\ServiceController.pdb
+bin\ServiceController.exe
+bin\ServiceController.pdb
+bin\ServiceController.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ServiceController.frmMain.resources
+obj\Debug\Service Control.vbproj.GenerateResource.Cache
+obj\Debug\ServiceController.exe
+obj\Debug\ServiceController.xml

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?>
+<UpgradeLog>
+<Properties><Property Name="Solution" Value="ServiceControl">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\root\Desktop\Service Controller\ServiceControl.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\root\Desktop\Service Controller\ServiceControl.suo">
+</Property><Property Name="Date" Value="04 September 2006">
+</Property><Property Name="Time" Value="20:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ServiceControl.sln" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Service Controller\Backup\ServiceControl.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ServiceControl.suo" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Service Controller\Backup\ServiceControl.suo">
+</Event><Event ErrorLevel="0" Project="Service Control" Source="Service Control.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\root\Desktop\Service Controller\Backup\Service Control.vbproj">
+</Event><Event ErrorLevel="0" Project="Service Control" Source="Service Control.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\root\Desktop\Service Controller\Backup\Service Control.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Service Control" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Service Controller\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Service Control" Source="Service Control frmMain.vb" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Service Controller\Backup\Service Control frmMain.vb">
+</Event><Event ErrorLevel="0" Project="Service Control" Source="licenses.licx" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Service Controller\Backup\licenses.licx">
+</Event><Event ErrorLevel="0" Project="Service Control" Source="Service Control frmMain.resx" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Service Controller\Backup\Service Control frmMain.resx">
+</Event><Event ErrorLevel="0" Project="Service Control" Source="Service Control.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Service Control" Source="Service Control.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ServiceControl.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ServiceControl.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Service Control" Source="Service Control.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
