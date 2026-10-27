@@ -1,5 +1,9 @@
 # Service Controller
 
+<p align="center">
+  <img src=".github/logo.png" alt="service-controller logo" width="128" />
+</p>
+
 A Windows Forms control panel for viewing and controlling Windows
 services.
 
